@@ -28,13 +28,9 @@
     <script>
     $(function(){
         $('#autoSizingInput').autocomplete({
-          source: "",
+          source: "search.php",
           minLength: 1
         });
-
-       $("#autoSizingSelect").change(function(){
-           $("#autoSizingInput").autocomplete({source: "search.php", minLength: 1});
-       }).change(); //Trigger the "change" event to set the source correctly the first time.
     });
     </script>
     <title>LOL_TO_LIFE_TIER</title>
