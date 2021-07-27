@@ -146,7 +146,7 @@ else{
           <?php echo $second_data ?>
       </p>
       <a href="index.php" class="card-link">돌아가기</a>
-      <a href="https://lifetier.netlify.app/" class="card-link">인생티어를롤티어로변환하기</a>
+      <a href="https://lifetolol.azurewebsites.net/" class="card-link">인생티어를롤티어로변환하기</a>
     </div>
   </div>                
     <!-- Optional JavaScript; choose one of the two! -->
