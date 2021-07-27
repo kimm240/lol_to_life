@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b3c96b40-a784-4cbc-897f-d97025452ca3/resourceGroups/loltolife/providers/Microsoft.Web/sites/loltolife",
+    "appService.deploySubpath": "."
+}
