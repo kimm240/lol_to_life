@@ -21,7 +21,7 @@ if (isset($_GET['term'])){
     $sql = "SELECT sum_name FROM sum_result WHERE sum_name LIKE '%".$keyword."%' LIMIT 10";
     $result = mysqli_query($db, $sql);
     while($row = mysqli_fetch_assoc($result)){
-        $return_arr[] =  $row['resi_fullname'];
+        $return_arr[] =  $row['sum_name'];
     }
 
     echo json_encode($return_arr);
