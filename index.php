@@ -20,6 +20,23 @@
     <!-- Go to www.addthis.com/dashboard to customize your tools -->
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-60f64db0ddbb15d4"></script>
        
+    <!-- jQuery & jQuery UI Library -->
+    <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/base/minified/jquery-ui.min.css" type="text/css" />
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/ui/1.10.1/jquery-ui.min.js"></script>
+
+    <script>
+    $(function(){
+        $('#autoSizingInput').autocomplete({
+          source: "",
+          minLength: 1
+        });
+
+       $("#autoSizingSelect").change(function(){
+           $("#autoSizingInput").autocomplete({source: "search.php", minLength: 1});
+       }).change(); //Trigger the "change" event to set the source correctly the first time.
+    });
+    </script>
     <title>LOL_TO_LIFE_TIER</title>
   </head>
   <h1>내세울 게 롤티어밖에 없는 롤창인생인 내가 이세계에선 강남 아파트 거주 부르주아?</h1>
