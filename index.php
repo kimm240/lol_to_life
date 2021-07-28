@@ -36,9 +36,15 @@
     </script>
     <title>LOL_TO_LIFE_TIER</title>
   </head>
-  <h1>내세울 게 롤티어밖에 없는 롤창인생인 내가 이세계에선 강남 아파트 거주 부르주아?</h1>
   <body>
 
+  <h1>내세울 게 롤티어밖에 없는 롤창인생인 내가 이세계에선 강남 아파트 거주 부르주아?</h1>
+  <h2 style="font-size:15px;">어떻게 하나요? <br>
+    1. 롤 닉네임을 입력하세요!(자동완성 기능을 이용하여 입력해주세요.)<br>
+    2. 확인하고 싶은 인생 데이터를 선택해주세요.<br>
+    3. 확인을 누르세요. <br>
+    4. 궁금한 게 있다면 ?버튼을 눌러서 확인해보세요. <br>
+  </h2>
 <form class="row gy-2 gx-3 align-items-center" action="check1.php" method="POST">
   <div class="col-auto">
     <label class="visually-hidden" for="autoSizingInput">Name</label>
@@ -69,6 +75,10 @@
           2. 변환하고자 하는 인생 데이터를 선택합니다.<br>
           3. 확인을 누릅니다.<br>
 
+        <b style="font-size:20px;">롤 db 기준</b>
+          1. 5vs5 솔로랭크<br>
+          2. 롤 db 업데이트 날짜: 2021/07/20<br>
+      
         <b style="font-size:20px;">원리</b>
           1. 입력한 롤 닉네임의 티어를 계산합니다.<br>
           2. 티어가 상위 몇 %인지 계산하고 그것을 바탕으로 인생 데이터를 계산합니다.<br>
@@ -79,9 +89,7 @@
           아파트/빌라: 한국감정원_전국주택가격동향조사_매매가격(21년 4월, 5월, 6월, 7월)<br>
           학벌: 이투스_정시지원참고표(21년 6월 모의평가)<br>
         <br>
-        <b style="font-size:20px;">롤 계정 db 업데이트 시점</b>
-          매주 월요일에 롤 db가 업데이트됩니다. <br>
-        <br>
+        
         [Your product] isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
       </div>
     </div>
