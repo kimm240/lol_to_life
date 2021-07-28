@@ -117,7 +117,7 @@ elseif($what == "거주지"){
 }
 
 else{
-  $what = "확인하고 싶은 인생티어를 선택해주세요.";
+  $what = "확인하고 싶은 인생 데이터를 선택해주세요.";
 }
 
 ?>
@@ -146,7 +146,7 @@ else{
           <?php echo $second_data ?>
       </p>
       <a href="index.php" class="card-link">돌아가기</a>
-      <a href="https://lifetolol.azurewebsites.net/" class="card-link">인생티어를롤티어로변환하기</a>
+      <a href="https://lifetolol.azurewebsites.net/" class="card-link">인생데이터를롤티어로변환하기</a>
     </div>
   </div>                
     <!-- Optional JavaScript; choose one of the two! -->
