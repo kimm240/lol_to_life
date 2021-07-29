@@ -98,6 +98,9 @@
     <!-- Go to www.addthis.com/dashboard to customize your tools -->
     <div class="addthis_inline_share_toolbox"></div>
 
+    <div>
+      <p>&copy; 김현규 2021. All Rights Reserved. </p>
+    </div>
     
     <!-- Kakao Adfit -->
     <ins class="kakao_ad_area" style="display:none;" 
@@ -106,9 +109,6 @@
       data-ad-height  = "100"></ins> 
     <script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
 
-    <div>
-      <p>&copy; 김현규 2021. All Rights Reserved. </p>
-    </div>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
