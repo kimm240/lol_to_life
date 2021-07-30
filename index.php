@@ -104,6 +104,18 @@
     
     <!-- Kakao Adfit -->
     <ins class="kakao_ad_area" style="display:none;" 
+      data-ad-unit    = "DAN-3NQit24UjG7WwlL3" 
+      data-ad-width   = "320" 
+      data-ad-height  = "100"></ins> 
+    <script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
+
+    <ins class="kakao_ad_area" style="display:none;" 
+      data-ad-unit    = "DAN-FPZywt8cXg8Siq8g" 
+      data-ad-width   = "320" 
+      data-ad-height  = "100"></ins> 
+    <script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
+
+    <ins class="kakao_ad_area" style="display:none;" 
       data-ad-unit    = "DAN-Ly56dFkRY5wqgQU3" 
       data-ad-width   = "320" 
       data-ad-height  = "100"></ins> 
