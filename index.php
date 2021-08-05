@@ -12,7 +12,7 @@
     <meta name="description" content="롤티어를 바탕으로 한 인생 데이터(키, 부동산, 학벌)을 알려줍니다." />
     <meta property="og:title" content="내세울 게 롤티어밖에 없는 롤창인생인 내가 이세계에선 강남 아파트 거주 부르주아?" />
     <meta property="og:description" content="롤티어를 바탕으로 인생 데이터(키, 부동산, 학벌)를 측정하여 알려줍니다." />
-    <meta property="og:image" content="https://ifh.cc/g/4VEoy7.jpg"/>
+    <meta property="og:image" content="https://ibb.co/pPdzZ3c"/>
     
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
