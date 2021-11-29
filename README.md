@@ -4,7 +4,7 @@
 http://loltolife.azurewebsites.net/ 
 
 # 구조</br>
-![image](https://user-images.githubusercontent.com/67453494/143814196-4bde574b-ca50-48dc-8bb8-7dcc0521f8f4.png)</br>
+![image](https://user-images.githubusercontent.com/67453494/143828063-f595b85a-4ea6-49a5-813b-5b51354564f6.png)
 
 # DB</br>
 키: 병무청_병역판정검사현황_신장분포(95년생)</br>
