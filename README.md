@@ -3,7 +3,7 @@
 예를 들어, 상위 19%인 롤 닉네임 입력 -> 키로 변환 시, 상위 19%인 174 출력. Or 아파트/빌라로 변환 시, 상위 19%인 XX 아파트 출력. Or 학벌로 변환 시, 상위 19%인 XX 대학교 출력. </br><br>
 http://loltolife.azurewebsites.net/ <비용 문제상 현재 운영 종료>    
       
-bootstrap, php, mySQL로 구현했습니다.      
+bootstrap(version: 5.0), php(version: 8.0.2), mySQL(version: 8.0.25)로 구현했습니다.      
 
 # 구조</br>
 ![image](https://user-images.githubusercontent.com/67453494/143828063-f595b85a-4ea6-49a5-813b-5b51354564f6.png)
